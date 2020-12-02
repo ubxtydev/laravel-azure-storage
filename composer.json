@@ -1,5 +1,5 @@
 {
-    "name": "matthewbdaly/laravel-azure-storage",
+    "name": "ubxty/flysystem-azure-blob-storage",
     "description": "Microsoft Azure Blob Storage integration for Laravel's Storage API",
     "type": "library",
     "keywords": ["storage","laravel","azure"],
